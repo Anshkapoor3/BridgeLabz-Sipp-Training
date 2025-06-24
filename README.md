@@ -7,3 +7,4 @@ On  day 6 we did problems of Strings
 On day 7 we did Method problems
 On day 8 we did String_handling Problems
 On day 9 we started the oops concepts and did some questions on that
+On day 10 we did problems on cunstructor and instances 
